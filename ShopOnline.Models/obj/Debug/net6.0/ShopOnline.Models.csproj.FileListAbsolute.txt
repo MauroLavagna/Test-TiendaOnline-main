@@ -1,0 +1,48 @@
+C:\Users\Usuario\source\repos\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TiendaOnline\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.deps.json
+C:\Users\Usuario\source\repos\TiendaOnline\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\Usuario\source\repos\TiendaOnline\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.pdb
+C:\Users\Usuario\source\repos\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\Usuario\source\repos\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\refint\ShopOnline.Models.dll
+C:\Users\Usuario\source\repos\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.pdb
+C:\Users\Usuario\source\repos\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ref\ShopOnline.Models.dll
+C:\Users\Usuario\Desktop\TiendaOnline\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.deps.json
+C:\Users\Usuario\Desktop\TiendaOnline\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\Usuario\Desktop\TiendaOnline\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.pdb
+C:\Users\Usuario\Desktop\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\Usuario\Desktop\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\refint\ShopOnline.Models.dll
+C:\Users\Usuario\Desktop\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.pdb
+C:\Users\Usuario\Desktop\TiendaOnline\ShopOnline.Models\obj\Debug\net6.0\ref\ShopOnline.Models.dll
+C:\Users\Usuario\Desktop\TiendaOnline-main\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.deps.json
+C:\Users\Usuario\Desktop\TiendaOnline-main\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\Usuario\Desktop\TiendaOnline-main\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.pdb
+C:\Users\Usuario\Desktop\TiendaOnline-main\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TiendaOnline-main\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TiendaOnline-main\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TiendaOnline-main\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TiendaOnline-main\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TiendaOnline-main\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\Usuario\Desktop\TiendaOnline-main\ShopOnline.Models\obj\Debug\net6.0\refint\ShopOnline.Models.dll
+C:\Users\Usuario\Desktop\TiendaOnline-main\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.pdb
+C:\Users\Usuario\Desktop\TiendaOnline-main\ShopOnline.Models\obj\Debug\net6.0\ref\ShopOnline.Models.dll
+C:\Users\Usuario\Desktop\TiendaOnline-main - Copy (2)\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.deps.json
+C:\Users\Usuario\Desktop\TiendaOnline-main - Copy (2)\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\Usuario\Desktop\TiendaOnline-main - Copy (2)\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.pdb
+C:\Users\Usuario\Desktop\TiendaOnline-main - Copy (2)\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TiendaOnline-main - Copy (2)\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TiendaOnline-main - Copy (2)\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TiendaOnline-main - Copy (2)\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TiendaOnline-main - Copy (2)\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TiendaOnline-main - Copy (2)\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\Usuario\Desktop\TiendaOnline-main - Copy (2)\ShopOnline.Models\obj\Debug\net6.0\refint\ShopOnline.Models.dll
+C:\Users\Usuario\Desktop\TiendaOnline-main - Copy (2)\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.pdb
+C:\Users\Usuario\Desktop\TiendaOnline-main - Copy (2)\ShopOnline.Models\obj\Debug\net6.0\ref\ShopOnline.Models.dll
